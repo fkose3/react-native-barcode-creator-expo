@@ -1,6 +1,6 @@
 {
-  "name": "react-native-barcode-creator-example",
-  "description": "Example app for react-native-barcode-creator",
+  "name": "react-native-barcode-creator-expo-example",
+  "description": "Example app for react-native-barcode-creator-expo",
   "version": "0.1.2",
   "private": true,
   "scripts": {
