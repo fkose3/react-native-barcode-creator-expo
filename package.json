@@ -42,7 +42,7 @@
   "bugs": {
     "url": "https://github.com/fkose3/react-native-barcode-creator-expo"
   },
-  "homepage": "",
+  "homepage": "https://github.com/fkose3/react-native-barcode-creator-expo",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
